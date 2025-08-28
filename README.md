@@ -10,8 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-# CalculatorApplication
+  
 <h2>shared_preferences</h2>
 A Flutter package for storing small and simple data on the user’s device using a key-value system.
 Ideal for saving app settings, login state, or lightweight data that doesn’t require a database.
