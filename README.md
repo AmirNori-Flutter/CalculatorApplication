@@ -13,3 +13,9 @@ A few resources to get you started if this is your first Flutter project:
 
 # CalculatorApplication
 Learning about Packages shared_preferences
+
+## Light Mode
+![LightMod](https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/2.png)
+
+## Dark Mode
+![DarkMode](https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/4.png)
