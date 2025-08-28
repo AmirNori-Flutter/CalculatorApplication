@@ -15,7 +15,10 @@ A few resources to get you started if this is your first Flutter project:
 Learning about Packages shared_preferences
 
 ## Light Mode
+https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/3.png
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/2.png" width="300"/>
+History
+<img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/3.png" width="300"/>
 
 ## Dark Mode
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/4.png" width="300"/>
