@@ -16,9 +16,9 @@ Learning about Packages shared_preferences
 
 ## Light Mode
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/2.png" width="300"/>
-<h2>History</h2>
+<h4>History</h4>
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/3.png" width="300"/>
-Splash screen
+<h4>Splash screen</h4>
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/1.png" width="300"/>
 
 ## Dark Mode
