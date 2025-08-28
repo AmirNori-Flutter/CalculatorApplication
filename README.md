@@ -18,4 +18,4 @@ Learning about Packages shared_preferences
 <img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/2.png" width="300"/>
 
 ## Dark Mode
-![DarkMode](https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/4.png)
+<img src="https://github.com/AmirNori-Flutter/CalculatorApplication/blob/main/assets/Pictures/4.png" width="300"/>
