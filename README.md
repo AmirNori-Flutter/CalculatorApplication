@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # calculator
 
 A new Flutter project.
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # CalculatorApplication
 Learning about Packages shared_preferences
->>>>>>> b4da0c163a151c65ff6f0a30b5a92b628e0e8e65
